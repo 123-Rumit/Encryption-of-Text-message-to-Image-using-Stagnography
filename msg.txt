@@ -1,0 +1,2 @@
+The ASCII value is stored in one of the three Red, Green, or Blue channels, whereas the other two channels correspond to the messages next coordinate. To generate the random keys,
+the system involves picking up of the random images of size 256*256. The decryption process involves production of the decrypted text file which contains the message
